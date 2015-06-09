@@ -5,7 +5,7 @@
 'use strict';
 
 var React = require('react-native');
-var DoubleBuffer = require('./double-buffer.js');
+var DoubleBuffer = require('react-native-double-buffer');
 
 var {
   AppRegistry,
